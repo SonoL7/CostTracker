@@ -1,0 +1,26 @@
+# Android
+*.iml
+.gradle/
+build/
+local.properties
+.idea/
+*.apk
+*.ap_
+*.dex
+*.class
+bin/
+gen/
+out/
+.navigation/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Output
+output/
+screenshot*.png
+
+# Local config
+PIC/
+.claude/
