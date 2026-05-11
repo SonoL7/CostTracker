@@ -104,7 +104,15 @@ adb install app/build/outputs/apk/debug/app-debug.apk
 
 ## License
 
-MIT
+本项目采用 **CC BY-NC 4.0** 许可协议。
+
+- ✅ 个人学习、研究、非商业使用
+- ✅ 署名归属原作者
+- ❌ **任何形式的商业使用**（包括但不限于销售、嵌入商业产品、付费分发、广告创收）
+
+完整协议文本：https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+> 本项目的所有 Q 版萌宠图片素材亦受上述协议保护，禁止提取用于其他项目。
 
 ---
 
